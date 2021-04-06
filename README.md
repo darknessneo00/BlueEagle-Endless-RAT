@@ -3,6 +3,7 @@
 # 🛑 📌 📌  Kindly note there is an urgent BUGs fixing , so download will not be available for some days till fixing these issues
 
 # 📌 Kindly keep in touch till re-upload , NOTE : pre-old downloaded versions might not work during these days
+# ~ The world has an End , this Pro 💿 name is { EndLESS } ~
 
 💿 BlueEagle Endless RAT V 0.0 [Windows RAT / Linux RAT / MAC RAT] 
 [Windows RAT] [Linux RAT] [MAC RAT] 
