@@ -1,13 +1,13 @@
 <config>
 <Start>
-<Standard Version = '1.0'></Standard Version>
-<Update Version = '1.0'></Update Version>
-<Update Version = '1.0'></Update Version>
+<Standard Version = '1.2'></Standard Version>
+<Update Version = '1.2'></Update Version>
+<Update Version = '1.2'></Update Version>
 <String Values =""
 set Values = "_
 jname=Saher Blue Eagle Endless Tool
-jupdate=1.0
-jversion=1.0
+jupdate=1.2
+jversion=1.2
 joptions=None
 jupdatestatus=Critical
               _"></String>
