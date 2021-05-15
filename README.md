@@ -1,14 +1,10 @@
 # 💿 Program Owner , By : SaherBlueEagle
 
-# 🛑 📌 📌  Kindly note there is an urgent BUGs fixing , so download will not be available for some days till fixing these issues
-<p align="center">
-<img src="https://raw.githubusercontent.com/SaherBlueEagle/BlueEagle-Endless-RAT/main/ERROR.png" ><br>
+# 🛑 📌 📌 PROGRAM UPDATED / NOW it can SUPPORT Android , the apk stub is not released YET
 
-</p>
+# 📌 Kindly keep in touch for the new version
 
-# 📌 Kindly keep in touch till re-upload , NOTE : pre-old downloaded versions might not work during these days
-
-💿 BlueEagle Endless RAT V 0.0 [Windows RAT / Linux RAT / MAC RAT] 
+💿 BlueEagle Endless RAT V 1.2 [Windows RAT / Linux RAT / MAC RAT] 
 [Windows RAT] [Linux RAT] [MAC RAT] 
 <p align="center">
 <img src="https://raw.githubusercontent.com/SaherBlueEagle/BlueEagle-Endless-RAT/main/wlas.png" ><br>
