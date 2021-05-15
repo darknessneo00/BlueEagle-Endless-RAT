@@ -1,6 +1,6 @@
 # 💿 Program Owner , By : SaherBlueEagle
 
-# 💿 📌 PROGRAM UPDATED / NOW it can SUPPORT Android , 
+# 💿 📌 PROGRAM UPDATED / NOW it can SUPPORT Android , Version 1.2
 # the apk stub is not released YET , BUT IT CAN
 
 # 📌 Kindly keep in touch for the new version
