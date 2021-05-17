@@ -1,7 +1,9 @@
 # 💿 Program Owner , By : SaherBlueEagle
 
+# 💿 📌 APK Builder : BlueEagle Endless Apk Builder Tool.zip 
+# Just Execute : BlueEagle_Apk_Builder_EndlessTool.jar
 # 💿 📌 PROGRAM UPDATED / NOW it can SUPPORT Android , Version 1.2
-# the apk stub is not released YET , BUT IT CAN
+
 
 # 📌 Kindly keep in touch for the new version
 
